@@ -4,7 +4,7 @@
 
 ## Description
 
-This project simulates an art gallery in your browser using [REGL](https://github.com/regl-project/regl).
+This project simulates an art gallery in your browser using WebGL [REGL](https://github.com/regl-project/regl).
 It aims at reproducing the experience of a real art gallery.
 The architecture is generated using a 10km long 6th order [Hilbert Curve](https://en.wikipedia.org/wiki/Hilbert_curve).
 The paintings are asynchronously loaded from the [ARTIC](https://aggregator-data.artic.edu/home) and placed on the walls.
