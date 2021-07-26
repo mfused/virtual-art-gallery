@@ -23,7 +23,7 @@ Build :
 ```shell
 npm build
 ```
-Credist: Clement Cariou
+Credits: Clement Cariou
 
 ## Using it with [local images] (https://wowm.org/virtual2/build.html?api=local)
 
